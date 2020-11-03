@@ -1,6 +1,4 @@
-# Data Analytics for the purchase of supplies from a hospital 
-
-# Data Analisis of the purchase of supplies from a Ecuador hospital.
+# Data Analisis of the purchase of supplies from a Ecuador hospital
 
 This project is based in public data that is available in the hospital website and other portals.
 
