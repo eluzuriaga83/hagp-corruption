@@ -7,7 +7,7 @@ The following analysis is based in two specific processes "Subasta the inversa e
 We wanted to identify:
  - The type of suppliers (Individual or companies) per contract.
  - The increase of expenses per annum since 2017 through the first half of 2020.
- - Time analysis of the year with more expenses.
+ - Time analysis of expenses for the remainder of the year.
  
 The steps in obtaining data are as follows:
  - Downloading pdfs from the hospital Website to extract data
