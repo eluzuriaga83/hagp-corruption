@@ -1,15 +1,15 @@
-# Data Analisis of the purchase of supplies from a Ecuador hospital
+# Data Analysis Regarding the Purchase of Supplies from an Ecuadorian Hospital
 
-This project is based in public data that is available in the hospital website and other portals.
+This project is based in public data that is available via the hospital website and other portals.
 
-The following analysis is based in two specific processes "Subasta the inversa electrónica" and "Regimen Especial"
+The following analysis is based in two specific processes "Subasta the inversa electrónica" and "Regimen Especial."
 
 We wanted to identify:
  - The type of suppliers (Individual or companies) per contract.
- - The increase of expenses between each year since 2017 to first semester of 2020
+ - The increase of expenses per annum since 2017 through the first half of 2020.
  - Time analysis of the year with more expenses.
  
-The steps to get the information are the following:
+The steps in obtaining data are as follows:
  - Downloading pdfs from the hospital Website to extract data
  - Creation of scrapping to get information from the webiste http://compraspublicas.gob.ec/
  - Cleaning and transformation of the data
