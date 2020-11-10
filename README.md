@@ -27,5 +27,5 @@ The libraries used:
  - search-processRE.ipynb: get all the information related to process Regimen Especial.
  - concat_allfiles.ipynb: concat all the files per year 
  - get-alldata.ipynb: get additional information for the process "Regimen Especial" and "Subasta Inversa Electrónica" from the records which status is "Adjudicado" 
- - newgraphics.ipynb: displays the graphs of the analysis.
+ - newgraphics.ipynb: displays the graphs of the analysis. https://github.com/eluzuriaga83/hagp-corruption/blob/master/scripts/newgraphics.ipynb
  
