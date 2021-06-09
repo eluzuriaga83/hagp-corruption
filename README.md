@@ -1,6 +1,6 @@
 # Data Analysis Regarding the Purchase of Supplies from an Ecuadorian Hospital
 
-This project is based in public data that is available via the hospital website and other portals.
+This project is based in public data that is available through the hospital website and other portals.
 
 The following analysis is based in two specific processes "Subasta the inversa electrónica" and "Regimen Especial."
 
